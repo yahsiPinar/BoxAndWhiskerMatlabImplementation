@@ -1,0 +1,2 @@
+# BoxAndWhiskerMatlabImplementation
+This program performs Box&amp;Whisker analysis (also known as Boxplot analysis). Program takes 2 parameters: dataset and constant. Dataset is the initial dataset that you want to analyze( nxm matrix is used in the program). Constant is the accepted coefficient of the Box&amp;Whisker algorithm as 1,5 ( Different coefficient values can be preferred. It doesn't have to be 1,5.). As a result program returns 3 output; minimum value in the dataset, Q2(or median) and maximum value in the dataset.
